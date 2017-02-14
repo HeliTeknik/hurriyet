@@ -7,7 +7,7 @@
 //
 // // Read in a page
 // $html = scraperwiki::scrape("http://foo.com");
-//
+  echo 5;
 // // Find something on the page using css selectors
 // $dom = new simple_html_dom();
 // $dom->load($html);
